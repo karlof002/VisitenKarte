@@ -2,7 +2,7 @@
  * Übungsnr:        01                                     
  * Programmname:    Visitenkarte                                  
  * Autor:           Max Mustermann  
- * Klasse:          1AHIF
+ * Klasse:          1BHIF
  * Datum:           DD.MM.YYYY                               
  * ------------------------------------------------ 
  * Kurzbeschreibung:      
